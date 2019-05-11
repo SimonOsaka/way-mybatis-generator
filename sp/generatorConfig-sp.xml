@@ -19,7 +19,7 @@
 
         <!-- jdbc 连接信息 ?useUnicode=true&amp;characterEncoding=UTF-8 -->
         <jdbcConnection driverClass="com.mysql.jdbc.Driver"
-                        connectionURL="jdbc:mysql://127.0.0.1:3306/on_the_way?useUnicode=true&amp;characterEncoding=UTF-8&amp;useSSL=false"
+                        connectionURL="jdbc:mysql://192.168.1.100:3306/on_the_way?useUnicode=true&amp;characterEncoding=UTF-8&amp;useSSL=false"
                         userId="root"
                         password="123456">
         </jdbcConnection>
