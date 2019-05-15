@@ -1,3 +1,4 @@
 .gradle
 /*/java/
 /*/resources
+.DS_Store
